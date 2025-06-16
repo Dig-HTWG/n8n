@@ -21,3 +21,8 @@ Mischgut,Tragdeckschicht,4
 Erschwernisse,Keine Erschwernisse,5
 Erschwernisse,Fraesen,2
 Erschwernisse,Einbauten,2
+Distanz,0 bis 25km,5
+Distanz,26 bis 50km,4
+Distanz,51 bis 75km,3
+Distanz,76 bis 100km,2
+Distanz, mehr als 100km,0
