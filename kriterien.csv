@@ -1,0 +1,23 @@
+﻿Kriterium,Wert,Gewichtung
+Art des Kunden,Unternehmen,5
+Art des Kunden,oeffentlich,5
+Art des Kunden,Privat,3
+Art der Asphaltarbeiten,Strassenbau,5
+Art der Asphaltarbeiten,Radweg,3
+Art der Asphaltarbeiten,Betriebsflaeche,4
+Art der Asphaltarbeiten,Landwirtschafliche Flaechen nach WHG,4
+Art der Asphaltarbeiten,Kleinflaechen,2
+Art der Asphaltarbeiten,Sonstiges,2
+Schwierigkeitsgrad,Leicht,5
+Schwierigkeitsgrad,Mittel,3
+Schwierigkeitsgrad,Schwer,1
+Flaeche Asphalt,0 bis 250,2
+Flaeche Asphalt,250 bis 1000,4
+Flaeche Asphalt,mehr als 1000,5
+Mischgut,Tragschicht,5
+Mischgut,Binderschicht,3
+Mischgut,Deckschicht,5
+Mischgut,Tragdeckschicht,4
+Erschwernisse,Keine Erschwernisse,5
+Erschwernisse,Fraesen,2
+Erschwernisse,Einbauten,2
